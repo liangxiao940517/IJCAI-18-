@@ -12,3 +12,13 @@
 ## 评估指标
 通过logarithmic loss（记为logloss）评估模型效果（越小越好）， 公式如下：\
 ![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/logloss.png)
+## 基础数据
+![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.png)
+## 广告商品信息
+![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/%E5%B9%BF%E5%91%8A%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF.png)
+## 用户信息
+![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF.png)
+## 上下文信息
+![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BF%A1%E6%81%AF.png)
+## 店铺信息
+![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/%E5%BA%97%E9%93%BA%E4%BF%A1%E6%81%AF.png)
