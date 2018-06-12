@@ -11,4 +11,4 @@
 （2）特殊日期的转化率预估
 ## 评估指标
 通过logarithmic loss（记为logloss）评估模型效果（越小越好）， 公式如下：\
-![image](http://github.com/liangxiao940517/IJCAI-18-/raw/master/Image_folder/logloss.png)
+![image](https://raw.githubusercontent.com/liangxiao940517/IJCAI-18-/master/Image_folder/logloss.png)
